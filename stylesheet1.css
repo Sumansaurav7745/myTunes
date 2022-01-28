@@ -1,0 +1,106 @@
+.a1{
+    background-color:rgb(54, 47, 47);
+    margin: -10px;
+    padding: 5px;
+}
+.grid-container{
+    background-color: rgb(70, 63, 63);
+    display: grid;
+grid-template-columns: auto auto auto auto auto;
+}
+.music{
+    text-align:center;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 20px;
+}
+.z1{
+    text-align:center;
+    font-size: 30px;
+    font-weight: bold;
+    color:white;
+
+}
+.c1{
+    text-align:center;
+    font-size: larger;
+    font-weight: bold;
+    background-color:rgb(87, 80, 80);
+    margin: -25;
+    padding: 10px;
+    width:101%;
+}
+.b1{
+    text-align: center;
+}
+.b{
+    color: white;
+    background-color: red;
+}
+.t1{
+    background-color: skyblue;
+    text-align:center;
+    color: black;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+body{
+    color: white;
+}
+.w1{
+    background-color:white;
+    text-align: center;
+    color:black;
+    font-size: 20px;
+    padding: 10px;
+}
+.y1{
+    background-color: blue;
+    color: white;
+    padding: 5px;
+}
+.u1{
+    background-image:url("guiter images.webp");
+    margin: -8;
+    padding: 10px;
+    background-size: cover;
+    height:100%
+}
+.i1{
+    background-color: skyblue;
+    text-align: center;
+    color: white;
+    padding: 8px;
+    background-image: url("sky images.jpg");
+    padding: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 20px;
+}
+.k1{
+    color:darkblue;
+    text-align: center;
+    text-decoration: none;
+    font-size: larger;
+}
+.l1{
+  text-align: center;
+  height: 100%;
+  width: 50%;
+}
+.p1{
+width: 50%;
+text-align: center;
+}
+.ss{
+    text-decoration:underline;
+    padding: 5px;
+}
+.as{
+    background-color: rgb(37, 27, 27);
+    color: white;
+    text-align: center;
+}
+.sum{
+    list-style-type: none;
+}
